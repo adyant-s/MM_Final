@@ -21,3 +21,4 @@ random_number_genaration.py
 s_s.py
 silver_meal.py
 timeseries_mmlab.py
+newsvendor.py
