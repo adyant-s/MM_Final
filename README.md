@@ -1,1 +1,23 @@
-# MM_Final
+Classical_EOQ.py
+EOQ_Without_Setup_Cost.py
+Estimating_pi and irregular lamina.py
+Multi_item_eoq.py
+Price_break.py
+arma.py
+bio_info_algos.py
+capital_asset_pricing_model.py
+distributions.py
+dp_inventory.py
+dynamic_eoq_setup_cost.py
+efficient_frontier.py
+interpolate_and_regression.py
+minimum_variance_portfolio.py
+mm1_and_mm2.py
+moving_average.py
+multi_period.py
+probabilistic_model.py
+probabilitized.py
+random_number_genaration.py
+s_s.py
+silver_meal.py
+timeseries_mmlab.py
