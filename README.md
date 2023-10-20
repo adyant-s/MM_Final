@@ -22,3 +22,5 @@ s_s.py
 silver_meal.py
 timeseries_mmlab.py
 newsvendor.py
+moving_average_small.py
+polynomial.py
